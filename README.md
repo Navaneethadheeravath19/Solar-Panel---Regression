@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+## 🌐 Live Demo
+👉 [Click here to view the live app](https://solar-panel---regression-e4n3w2bss5vucpkhk26aaj.streamlit.app/)![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
