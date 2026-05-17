@@ -2,6 +2,11 @@
 
 👉 [Click here to view the live app](https://solar-panel---regression-e4n3w2bss5vucpkhk26aaj.streamlit.app/)
 
+&nbsp;
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)](https://scikit-learn.org/)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/Navaneethadheeravath19/Solar-Panel---Regression)
 ---
 # ☀️ Solar Panel Power Prediction — Regression Model
 
