@@ -3,6 +3,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+
+
 # ☀️ Solar Panel Power Prediction — Regression Model
 
 An end-to-end machine learning project that predicts solar panel power output using environmental data such as distance to solar noon, temperature, humidity, wind speed, and sky cover.
